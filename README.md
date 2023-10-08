@@ -1,2 +1,7 @@
-# pratcie-git
-This  simple test to learn git
+# practice-git
+
+This simple test to learn git
+
+# Teacher
+
+Md Arafat
